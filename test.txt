@@ -1,0 +1,36 @@
++++ORDER
+0
++++ADD TO ORDER
+1
+1
+35
++++ADD EMPLOYEE
+DRIVER
+Tomasz
+Zywiec
+123435231
+tomasz.zywiec@program.com
+2023-01-18
+4000
+873214234
++++ADD PRODUCT
+FOOD
+Ice Cream
+Freeezes
+150
+1500
+120
++++ADD PRODUCT
+CLEANING
+Cif
+Cifex
+200
+2000
+Cleaning dishes
+true
++++ADD SHOP
+Shoppe
+Warsaw
+Bielanowicza 4
+00-003
+321542123
